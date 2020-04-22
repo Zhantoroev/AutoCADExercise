@@ -1,2 +1,2 @@
-# AutoCADExercise
+# AutoCAD exercise
 Engineering Computer Graphics
